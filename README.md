@@ -24,3 +24,8 @@ Caso inicie em uma diferente, ela deve ser editada no arquivo "server" da pasta 
 -Também estou compartilhando o arquivo .jar que criei pelo Drive:
 https://drive.google.com/drive/folders/1jEwxrgJ8FLhBkDF-Iiz6rhBymVfWDIYb?usp=sharing
 
+- O DB utilizado neste projeto foi o PostgreSQL:
+Para que a interacao com o banco de dados funcione normalmente, o arquivo application.properties realiza esta conexao.
+Para utilizar a mesma deste projeto, deve-se utilizar o postgreSQL local, com a criação de um DB chamado "desafioscale"
+(Ou alterar as configs para um banco de dados proprio)
+
